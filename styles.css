@@ -1,0 +1,27 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+.font-regular {
+  font-family: "Rajdhani", sans-serif;
+}
+
+.font-accent {
+  font-family: "Audiowide", sans-serif;
+}
+
+/*# sourceMappingURL=styles.css.map */
